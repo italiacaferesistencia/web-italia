@@ -890,6 +890,12 @@ const MENU_DATA = [
                 "descripcion": "",
                 "precio": 1700,
                 "img": "/images/productos/opci_n_keto_1759338229231-Photoroom.webp"
+            },
+            {
+                "nombre": "Pan Keto (unidad) Adicional",
+                "descripcion": "",
+                "precio": 1700,
+                "img": "/images/productos/opci_n_keto_1759338229231-Photoroom.webp"
             }
         ]
     }
