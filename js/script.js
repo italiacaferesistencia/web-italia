@@ -5,13 +5,13 @@ const MENU_DATA = [
             {
                 "nombre": "Sandwich Génova",
                 "descripcion": "Pan de Molde, Queso Crema, Jamón, Queso y Omelet de huevo, relleno de queso.",
-                "precio": 7800,
+                "precio": 7900,
                 "img": "/images/productos/genova.webp"
             },
             {
                 "nombre": "Opción Keto - Sandwich Génova",
                 "descripcion": "",
-                "precio": 9000,
+                "precio": 9300,
                 "img": "/images/productos/IMG_1463.webp"
             },
             {
@@ -23,7 +23,7 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Brusqueta Sicilia",
                 "descripcion": "",
-                "precio": 7200,
+                "precio": 7700,
                 "img": "/images/productos/IMG_1753.webp"
             },
             {
@@ -41,13 +41,13 @@ const MENU_DATA = [
             {
                 "nombre": "Brusqueta Capri",
                 "descripcion": "Pan de Campo, Queso Crema, Frutas de Estación, Miel y Granola",
-                "precio": 6300,
+                "precio": 6400,
                 "img": "/images/productos/Generated Image October 02, 2025 - 12_51AM.webp"
             },
             {
                 "nombre": "Opción Keto - Brusqueta Capri",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 7100,
                 "img": "/images/productos/Generated Image October 02, 2025 - 12_04AM.webp"
             },
             {
@@ -59,13 +59,13 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Brusqueta Siena",
                 "descripcion": "",
-                "precio": 6400,
+                "precio": 6700,
                 "img": "/images/productos/IMG_1752.webp"
             },
             {
                 "nombre": "Pancakes Roma",
                 "descripcion": "2 Pancakes Tibios con Frutas de Estación, Miel o Salsa y Coco",
-                "precio": 7000,
+                "precio": 7200,
                 "img": "/images/productos/roma.webp"
             }
         ]
@@ -76,13 +76,13 @@ const MENU_DATA = [
             {
                 "nombre": "Combo 1",
                 "descripcion": "Café o té + 2 Medialunas",
-                "precio": 6800,
+                "precio": 6900,
                 "img": "/images/productos/combo 1.webp"
             },
             {
                 "nombre": "Combo 2",
                 "descripcion": "Café o té + 2 Waffle con miel o salsa",
-                "precio": 6800,
+                "precio": 6900,
                 "img": "/images/productos/combo 2.webp"
             },
             {
@@ -94,19 +94,19 @@ const MENU_DATA = [
             {
                 "nombre": "Combo 4",
                 "descripcion": "Café o té + 2 Tostadas con 2 dips (Queso crema y Mermelada)",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/combo 4.webp"
             },
             {
                 "nombre": "Combo 5",
                 "descripcion": "Café o té + 100gr de chipá",
-                "precio": 6300,
+                "precio": 6500,
                 "img": "/images/productos/combo 5.webp"
             },
             {
                 "nombre": "Combo 6",
                 "descripcion": "Café o té + 1 Medialuna de jamón y queso",
-                "precio": 6800,
+                "precio": 7000,
                 "img": "/images/productos/combo 7.webp"
             },
             {
@@ -130,13 +130,13 @@ const MENU_DATA = [
             {
                 "nombre": "Combo 10",
                 "descripcion": "Yogurt con granola, frutas, miel y coco (sin infusión)",
-                "precio": 5800,
+                "precio": 6000,
                 "img": "/images/productos/cb0ab5ec-271b-4b66-be20-280b11e251de.webp"
             },
             {
                 "nombre": "Combo 11",
                 "descripcion": "Café o té + 150gr bizcochos",
-                "precio": 5800,
+                "precio": 6000,
                 "img": "/images/productos/combo 11.webp"
             },
             {
@@ -159,19 +159,19 @@ const MENU_DATA = [
             {
                 "nombre": "Combo Clásico",
                 "descripcion": "Café + 2 Medialunas o 150gr bizcochos +  jugo de naranja",
-                "precio": 7400,
+                "precio": 7700,
                 "img": "/images/productos/combo clasi.webp"
             },
             {
                 "nombre": "Combo Chipá",
                 "descripcion": "Café + 100g de chipá + jugo de naranja",
-                "precio": 7100,
+                "precio": 7400,
                 "img": "/images/productos/combo chipa.webp"
             },
             {
                 "nombre": "Combo Proteico",
                 "descripcion": "Café + tostón de J&Q y huevo revuelto + jugo de naranja mediano",
-                "precio": 13800,
+                "precio": 14400,
                 "img": "/images/productos/combo_proteico_1759337968932.webp"
             },
             {
@@ -183,7 +183,7 @@ const MENU_DATA = [
             {
                 "nombre": "Combo Italia",
                 "descripcion": "Café + porción de torta/tarta + jugo de naranja",
-                "precio": 12850,
+                "precio": 13100,
                 "img": "/images/productos/combo italia.webp"
             },
             {
@@ -195,8 +195,20 @@ const MENU_DATA = [
             {
                 "nombre": "Combo Para dos",
                 "descripcion": "Café + 2 medialunas + 2 tostadas con dips + porción de pastafrola o tarta de coco con dulce de leche + 100g de chipá + jugo de naranja",
-                "precio": 25000,
+                "precio": 26100,
                 "img": "/images/productos/combo doble.webp"
+            },
+            {
+                "nombre": "Combo Verano 1",
+                "descripcion": "Cerveza premium con Mbejú Italia",
+                "precio": 16000,
+                "img": "/images/productos/combo verano 1.webp"
+            },
+            {
+                "nombre": "Combo Verano 2",
+                "descripcion": "Vaso de limonada grande con Mbejú Italia",
+                "precio": 12500,
+                "img": "/images/productos/combo verano 2.webp"
             }
         ]
     },
@@ -253,49 +265,49 @@ const MENU_DATA = [
             {
                 "nombre": "Porción de Cheesecake",
                 "descripcion": "",
-                "precio": 7500,
+                "precio": 7600,
                 "img": "/images/productos/IMG_1423.webp"
             },
             {
                 "nombre": "Porción de Pastafrola",
                 "descripcion": "",
-                "precio": 6000,
+                "precio": 6200,
                 "img": "/images/productos/porci_n_de_pastafrola_1759337916810.webp"
             },
             {
                 "nombre": "Porción de Lemon Pie",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/IMG_0156.webp"
             },
             {
                 "nombre": "Porción de Patagonia",
                 "descripcion": "Chocolate blanco con frutos rojos",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/IMG_0157.webp"
             },
             {
                 "nombre": "Porción de Chocotorta",
                 "descripcion": "",
-                "precio": 7500,
+                "precio": 7600,
                 "img": "/images/productos/porci_n_de_chocotorta_1759338083767.webp"
             },
             {
                 "nombre": "Porción de Tiramisú",
                 "descripcion": "",
-                "precio": 7500,
+                "precio": 7600,
                 "img": "/images/productos/porci_n_de_tiramis_1759338099812.webp"
             },
             {
                 "nombre": "Porción de Havannet",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/IMG_0169.webp"
             },
             {
                 "nombre": "Porción de Tarta de Coco",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/porci_n_de_tarta_de_coco_1759337876968.webp"
             },
             {
@@ -307,38 +319,26 @@ const MENU_DATA = [
             {
                 "nombre": "Porción de Matilda",
                 "descripcion": "",
-                "precio": 7500,
+                "precio": 7600,
                 "img": "/images/productos/IMG_1396.webp"
             },
             {
                 "nombre": "Porción de Tarta del Bosque",
                 "descripcion": "Crema pastelera de naranja, reducción de arandanos y ganache de chocolate blanco",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/WhatsApp Image 2025-10-06 at 20.20.42_fdf28e7b.webp"
             },
             {
                 "nombre": "Porción de Tarta de Frutilla",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/tartafrutilla.webp"
             },
             {
                 "nombre": "Porción de Tarta de Frutas",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6700,
                 "img": "/images/productos/tartafrutas.webp"
-            },
-            {
-                "nombre": "Lemon Pie",
-                "descripcion": "",
-                "precio": 28000,
-                "img": "/images/productos/tortas_enteras_1759335487429.webp"
-            },
-            {
-                "nombre": "Cheesecake",
-                "descripcion": "",
-                "precio": 30000,
-                "img": "/images/productos/cheesecake.webp"
             },
         ]
     },
@@ -354,7 +354,7 @@ const MENU_DATA = [
             {
                 "nombre": "Café - Espresso",
                 "descripcion": "",
-                "precio": 2500,
+                "precio": 2600,
                 "img": "/images/productos/IMG_1382.webp"
             },
             {
@@ -363,25 +363,25 @@ const MENU_DATA = [
             {
                 "nombre": "Café - Jarrita",
                 "descripcion": "",
-                "precio": 2500,
+                "precio": 2600,
                 "img": "/images/productos/IMG_1419.webp"
             },
             {
                 "nombre": "Café con Leche - Jarrita",
                 "descripcion": "",
-                "precio": 2800,
+                "precio": 2900,
                 "img": "/images/productos/IMG_1388.webp"
             },
             {
                 "nombre": "Café Cortado - Jarrita",
                 "descripcion": "",
-                "precio": 2800,
+                "precio": 2900,
                 "img": "/images/productos/cortado jarrita.webp"
             },
             {
                 "nombre": "Café Lágrima - Jarrita",
                 "descripcion": "Leche caliente con un suave toque de café.",
-                "precio": 2900,
+                "precio": 3000,
                 "img": "/images/productos/lagrima jarrita.webp"
             },
             {
@@ -390,31 +390,31 @@ const MENU_DATA = [
             {
                 "nombre": "Café - Doble",
                 "descripcion": "",
-                "precio": 3800,
+                "precio": 3900,
                 "img": "/images/productos/cafe doble.webp"
             },
             {
                 "nombre": "Café con Leche - Doble",
                 "descripcion": "",
-                "precio": 4500,
+                "precio": 4600,
                 "img": "/images/productos/caf_con_leche_1759338139087.webp"
             },
             {
                 "nombre": "Café Cortado - Doble",
                 "descripcion": "",
-                "precio": 4300,
+                "precio": 4400,
                 "img": "/images/productos/cortado doble.webp"
             },
             {
                 "nombre": "Café Lágrima - Doble",
                 "descripcion": "Leche caliente con un suave toque de café.",
-                "precio": 4700,
+                "precio": 4800,
                 "img": "/images/productos/lagrima doble.webp"
             },
             {
                 "nombre": "Café con Crema - Doble",
                 "descripcion": "Café negro acompañado de crema chantilly.",
-                "precio": 5700,
+                "precio": 5900,
                 "img": "/images/productos/cafe con crema.webp"
             },
             {
@@ -423,13 +423,13 @@ const MENU_DATA = [
             {
                 "nombre": "Café - Tazón XL",
                 "descripcion": "",
-                "precio": 6000,
+                "precio": 6100,
                 "img": "/images/productos/tazon cafe.webp"
             },
             {
                 "nombre": "Café con Leche - Tazón XL",
                 "descripcion": "",
-                "precio": 6500,
+                "precio": 6600,
                 "img": "/images/productos/tazon cafe con leche.webp"
             },
             {
@@ -438,43 +438,43 @@ const MENU_DATA = [
             {
                 "nombre": "Café Irlandés",
                 "descripcion": "Espresso con whisky, crema chantilly y salsa de caramelo. (Medida: 240 ml)",
-                "precio": 6900,
+                "precio": 7000,
                 "img": "/images/productos/irlandes.webp"
             },
             {
                 "nombre": "Café Affogato",
                 "descripcion": "Espresso servido con helado a elección (vainilla o dulce de leche), garrapiñada y salsa de caramelo. (Medida: 240 ml)",
-                "precio": 5700,
+                "precio": 5800,
                 "img": "/images/productos/WhatsApp Image 2025-09-30 at 19.11.27_70e3659d.webp"
             },
             {
                 "nombre": "Iced coffee",
                 "descripcion": "Doble café frío con base de salsa de caramelo. (Medida: 240 ml)",
-                "precio": 3800,
+                "precio": 4600,
                 "img": "/images/productos/iced coffee.webp"
             },
             {
                 "nombre": "Iced latte",
                 "descripcion": "Leche fría con café batido y salsa de caramelo. (Medida: 360 ml)",
-                "precio": 4300,
+                "precio": 4600,
                 "img": "/images/productos/iced lattee.webp"
             },
             {
                 "nombre": "Café bombón",
                 "descripcion": "Leche condensada, espuma de café helada, espuma de leche y cacao amargo. (Medida: 240 ml)",
-                "precio": 6500,
+                "precio": 7000,
                 "img": "/images/productos/bombon.webp"
             },
             {
                 "nombre": "Cappuccino",
                 "descripcion": "Espresso con leche caliente, terminado con canela o cacao amargo. (Medida: 240 ml)",
-                "precio": 5200,
+                "precio": 5300,
                 "img": "/images/productos/IMG_1399.webp"
             },
             {
                 "nombre": "Café Freddo",
                 "descripcion": "Leche fría con chocolate Águila, café batido, crema chantilly y salsa de chocolate. (Medida: 240 ml)",
-                "precio": 5800,
+                "precio": 6000,
                 "img": "/images/productos/fredo.webp"
             },
             {
@@ -495,7 +495,7 @@ const MENU_DATA = [
             {
                 "nombre": "Submarino",
                 "descripcion": "Barra de chocolate Águila con leche caliente. (Medida: 240 ml)",
-                "precio": 5000,
+                "precio": 5500,
                 "img": "/images/productos/IMG_1407.webp"
             },
             {
@@ -549,8 +549,14 @@ const MENU_DATA = [
             {
                 "nombre": "Medialuna Dulce",
                 "descripcion": "",
-                "precio": 1700,
+                "precio": 1800,
                 "img": "/images/productos/medialuna dulce.webp"
+            },
+            {
+                "nombre": "Medialuna con Crema de Pistacho",
+                "descripcion": "",
+                "precio": 4500,
+                "img": "/images/productos/medialunapistacho.webp"
             },
             {
                 "nombre": "Porción de Pepas",
@@ -561,31 +567,37 @@ const MENU_DATA = [
             {
                 "nombre": "Tostadas pan de molde con 2 dips",
                 "descripcion": "Mermelada de frutilla/naranja, dulce de leche y queso crema",
-                "precio": 6400,
+                "precio": 6800,
                 "img": "/images/productos/IMG_1764.webp"
+            },
+             {
+                "nombre": "Opción Keto - Tostadas con 2 dips",
+                "descripcion": "Mermelada de frutilla/naranja, dulce de leche y queso crema con 3 tostadas",
+                "precio": 8900,
+                "img": ""
             },
             {
                 "nombre": "Alfajores de la casa",
                 "descripcion": "(2 unidades)",
-                "precio": 3300,
+                "precio": 3500,
                 "img": "/images/productos/alfajores_de_la_casa_1759337949426.webp"
             },
             {
                 "nombre": "Porción de Alfajores de Maicena",
                 "descripcion": "",
-                "precio": 3300,
+                "precio": 3500,
                 "img": "/images/productos/porci_n_de_alfajores_de_maicena_1759337932431.webp"
             },
             {
                 "nombre": "Alfajores de Pistacho",
                 "descripcion": "(Por unidad)",
-                "precio": 3300,
+                "precio": 3500,
                 "img": "/images/productos/alfajor de pistacho.webp"
             },
             {
                 "nombre": "Bowl frutas de estación, miel y coco",
                 "descripcion": "",
-                "precio": 7000,
+                "precio": 7200,
                 "img": "/images/productos/bow de frutas.webp"
             },
             {
@@ -597,13 +609,13 @@ const MENU_DATA = [
             {
                 "nombre": "Waffles con helado",
                 "descripcion": "Waffles con 2 bochas de helado, crema chantilly y salsa a elección (2 Unidades)",
-                "precio": 7000,
+                "precio": 7200,
                 "img": "/images/productos/Generated Image October 01, 2025 - 11_54PM.webp"
             },
             {
                 "nombre": "Waffles con frutas",
                 "descripcion": "(2 Unidades)",
-                "precio": 7000,
+                "precio": 7200,
                 "img": "/images/productos/wafflefruta.webp"
             },
             {
@@ -611,6 +623,12 @@ const MENU_DATA = [
                 "descripcion": "",
                 "precio": 5000,
                 "img": "/images/productos/IMG_0159.webp"
+            },
+            {
+                "nombre": "Copa Helada Premium",
+                "descripcion": "Copa con 3 bochas, 3 topping, 1 salsa a elección y oblea",
+                "precio": 6000,
+                "img": "/images/productos/copa helada.webp"
             }
         ]
     },
@@ -620,32 +638,38 @@ const MENU_DATA = [
             {
                 "nombre": "Chipá (100gr)",
                 "descripcion": "",
-                "precio": 3100,
+                "precio": 3300,
                 "img": "/images/productos/chipa.webp"
             },
             {
                 "nombre": "Bizcochos de grasa (100gr)",
                 "descripcion": "",
-                "precio": 1900,
+                "precio": 2000,
                 "img": "/images/productos/IMG_1437.webp"
             },
             {
                 "nombre": "Bizcochos de grasa (150)",
                 "descripcion": "",
-                "precio": 2600,
+                "precio": 2700,
                 "img": "/images/productos/IMG_1431.webp"
             },
             {
                 "nombre": "Bizcochos de grasa (250gr)",
                 "descripcion": "",
-                "precio": 3900,
+                "precio": 4000,
                 "img": "/images/productos/IMG_1426.webp"
             },
             {
                 "nombre": "Sandwich J&Q + Queso Crema en pan de campo",
                 "descripcion": "",
-                "precio": 6800,
+                "precio": 7300,
                 "img": "/images/productos/IMG_1769.webp"
+            },
+            {
+                "nombre": "Opcion Keto - Sandwich J&Q + Queso Crema en pan de campo",
+                "descripcion": "",
+                "precio": 8700,
+                "img": ""
             },
             {
                 "nombre": "Sandwich jamón crudo y rúcula",
@@ -674,32 +698,38 @@ const MENU_DATA = [
             {
                 "nombre": "Tostón con huevos revueltos J&Q",
                 "descripcion": "1 Tostada +  2 Huevos revueltos +  Rollitos de J&Q",
-                "precio": 7100,
+                "precio": 7200,
                 "img": "/images/productos/tost_n_con_huevos_revueltos_j_q_1759338003337.webp"
+            },
+            {
+                "nombre": "Opción Keto - Tostón con huevos revueltos J&Q",
+                "descripcion": "1 Tostada +  2 Huevos revueltos +  Rollitos de J&Q",
+                "precio": 7900,
+                "img": ""
             },
             {
                 "nombre": "Medialuna Salada",
                 "descripcion": "",
-                "precio": 1700,
+                "precio": 1800,
                 "img": "/images/productos/medialuna salada.webp"
             },
-            {
-                "nombre": "Medialuna con Crema de Pistacho",
-                "descripcion": "",
-                "precio": 4500,
-                "img": "/images/productos/medialunapistacho.webp"
-            },
-            {
+             {
                 "nombre": "Medialuna con J&Q",
                 "descripcion": "Opcional: Medialuna salada/dulce",
-                "precio": 4900,
+                "precio": 5000,
                 "img": "/images/productos/medialuna.webp"
             },
             {
                 "nombre": "Tostón de huevo revuelto con J&Q integrado",
                 "descripcion": "",
-                "precio": 6600,
+                "precio": 6700,
                 "img": "/images/productos/IMG_1741.webp"
+            },
+            {
+                "nombre": "Opción Keto - Tostón de huevo revuelto con J&Q integrado",
+                "descripcion": "",
+                "precio": 7400,
+                "img": ""
             },
         ]
     },
@@ -739,7 +769,7 @@ const MENU_DATA = [
             {
                 "nombre": "Jarra de Jugo de Naranja",
                 "descripcion": "Medida: 2 lts ",
-                "precio": 11500,
+                "precio": 12000,
                 "img": "/images/productos/jarranaranja.webp"
             },
             {
@@ -757,13 +787,13 @@ const MENU_DATA = [
             {
                 "nombre": "Jugo de naranja mediano",
                 "descripcion": "Medida: 360 ml",
-                "precio": 3600,
+                "precio": 4400,
                 "img": "/images/productos/jugo naranja 360.webp"
             },
             {
                 "nombre": "Jugo de naranja grande",
                 "descripcion": "Medida: 500 ml",
-                "precio": 4500,
+                "precio": 4800,
                 "img": "/images/productos/jugo naranja 500.webp"
             },
             {
@@ -828,7 +858,7 @@ const MENU_DATA = [
             {
                 "nombre": "Huevo Adicional",
                 "descripcion": "",
-                "precio": 860,
+                "precio": 900,
                 "img": "/images/productos/image-Photoroom.webp"
             },
             {
@@ -864,7 +894,7 @@ const MENU_DATA = [
             {
                 "nombre": "Jugo de naranja en combo Adicional",
                 "descripcion": "Medida: 100 ml",
-                "precio": 2200,
+                "precio": 2350,
                 "img": "/images/productos/jugo_de_naranja_en_combo_1759338067307-Photoroom.webp"
             },
             {
@@ -876,7 +906,7 @@ const MENU_DATA = [
             {
                 "nombre": "Helado / Frutas Adicional",
                 "descripcion": "",
-                "precio": 1600,
+                "precio": 1750,
                 "img": "/images/productos/Generated Image October 01, 2025 - 11_22PM-Photoroom.webp"
             },
             {
