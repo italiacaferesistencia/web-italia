@@ -775,25 +775,25 @@ const MENU_DATA = [
             {
                 "nombre": "Limonada mediana",
                 "descripcion": "Medida: 360 ml",
-                "precio": 3300,
+                "precio": 4200,
                 "img": "/images/productos/limonada mediana.webp"
             },
             {
                 "nombre": "Limonada grande",
                 "descripcion": "Medida: 500 ml",
-                "precio": 4200,
+                "precio": 4700,
                 "img": "/images/productos/limonada grande.webp"
             },
             {
                 "nombre": "Jugo de naranja mediano",
                 "descripcion": "Medida: 360 ml",
-                "precio": 4400,
+                "precio": 5100,
                 "img": "/images/productos/jugo naranja 360.webp"
             },
             {
                 "nombre": "Jugo de naranja grande",
                 "descripcion": "Medida: 500 ml",
-                "precio": 4800,
+                "precio": 5500,
                 "img": "/images/productos/jugo naranja 500.webp"
             },
             {
