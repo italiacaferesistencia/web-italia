@@ -23,7 +23,7 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Brusqueta Sicilia",
                 "descripcion": "",
-                "precio": 7950,
+                "precio": 8000,
                 "img": "/images/productos/IMG_1753.webp"
             },
             {
@@ -35,7 +35,7 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Brusqueta Turín",
                 "descripcion": "",
-                "precio": 8550,
+                "precio": 8600,
                 "img": "/images/productos/IMG_1450.webp"
             },
             {
