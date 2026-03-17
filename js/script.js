@@ -47,7 +47,7 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Brusqueta Capri",
                 "descripcion": "",
-                "precio": 7350,
+                "precio": 7250,
                 "img": "/images/productos/Generated Image October 02, 2025 - 12_04AM.webp"
             },
             {
@@ -265,79 +265,79 @@ const MENU_DATA = [
             {
                 "nombre": "Porción de Cheesecake",
                 "descripcion": "",
-                "precio": 7600,
+                "precio": 7800,
                 "img": "/images/productos/IMG_1423.webp"
             },
             {
                 "nombre": "Porción de Pastafrola",
                 "descripcion": "",
-                "precio": 6200,
+                "precio": 6400,
                 "img": "/images/productos/porci_n_de_pastafrola_1759337916810.webp"
             },
             {
                 "nombre": "Porción de Lemon Pie",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/IMG_0156.webp"
             },
             {
                 "nombre": "Porción de Patagonia",
                 "descripcion": "Chocolate blanco con frutos rojos",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/IMG_0157.webp"
             },
             {
                 "nombre": "Porción de Chocotorta",
                 "descripcion": "",
-                "precio": 7600,
+                "precio": 7800,
                 "img": "/images/productos/porci_n_de_chocotorta_1759338083767.webp"
             },
             {
                 "nombre": "Porción de Tiramisú",
                 "descripcion": "",
-                "precio": 7600,
+                "precio": 7800,
                 "img": "/images/productos/porci_n_de_tiramis_1759338099812.webp"
             },
             {
                 "nombre": "Porción de Havannet",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/IMG_0169.webp"
             },
             {
                 "nombre": "Porción de Tarta de Coco",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/porci_n_de_tarta_de_coco_1759337876968.webp"
             },
             {
                 "nombre": "Porción de Tarta de Pistachos",
                 "descripcion": "",
-                "precio": 8000,
+                "precio": 8300,
                 "img": "/images/productos/pistacho.webp"
             },
             {
                 "nombre": "Porción de Matilda",
                 "descripcion": "",
-                "precio": 7600,
+                "precio": 7800,
                 "img": "/images/productos/IMG_1396.webp"
             },
             {
                 "nombre": "Porción de Tarta del Bosque",
                 "descripcion": "Crema pastelera de naranja, reducción de arandanos y ganache de chocolate blanco",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/WhatsApp Image 2025-10-06 at 20.20.42_fdf28e7b.webp"
             },
             {
                 "nombre": "Porción de Tarta de Frutilla",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/tartafrutilla.webp"
             },
             {
                 "nombre": "Porción de Tarta de Frutas",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 6900,
                 "img": "/images/productos/tartafrutas.webp"
             },
         ]
@@ -414,7 +414,7 @@ const MENU_DATA = [
             {
                 "nombre": "Café con Crema - Doble",
                 "descripcion": "Café negro acompañado de crema chantilly.",
-                "precio": 5900,
+                "precio": 6100,
                 "img": "/images/productos/cafe con crema.webp"
             },
             {
@@ -429,7 +429,7 @@ const MENU_DATA = [
             {
                 "nombre": "Café con Leche - Tazón XL",
                 "descripcion": "",
-                "precio": 6800,
+                "precio": 6900,
                 "img": "/images/productos/tazon cafe con leche.webp"
             },
             {
@@ -698,7 +698,7 @@ const MENU_DATA = [
             {
                 "nombre": "Tostón con huevos revueltos J&Q",
                 "descripcion": "1 Tostada +  2 Huevos revueltos +  Rollitos de J&Q",
-                "precio": 7200,
+                "precio": 7400,
                 "img": "/images/productos/tost_n_con_huevos_revueltos_j_q_1759338003337.webp"
             },
             {
@@ -710,19 +710,19 @@ const MENU_DATA = [
             {
                 "nombre": "Medialuna Salada",
                 "descripcion": "",
-                "precio": 1800,
+                "precio": 1900,
                 "img": "/images/productos/medialuna salada.webp"
             },
              {
                 "nombre": "Medialuna con J&Q",
                 "descripcion": "Opcional: Medialuna salada/dulce",
-                "precio": 5000,
+                "precio": 5200,
                 "img": "/images/productos/medialuna.webp"
             },
             {
                 "nombre": "Tostón de huevo revuelto con J&Q integrado",
                 "descripcion": "",
-                "precio": 6700,
+                "precio": 7400,
                 "img": "/images/productos/IMG_1741.webp"
             },
             {
@@ -739,37 +739,37 @@ const MENU_DATA = [
             {
                 "nombre": "Licuado con agua",
                 "descripcion": "Medida: 500 ml (Sabores: Frutilla, Durazno o Banana)",
-                "precio": 4000,
+                "precio": 4300,
                 "img": "/images/productos/bd0f25bd-9e56-4f0f-a800-c9d985ba0688.webp"
             },
             {
                 "nombre": "Licuado con leche",
                 "descripcion": "Medida: 500 ml (Sabores: Frutilla, Durazno o Banana)",
-                "precio": 5000,
+                "precio": 5500,
                 "img": "/images/productos/cf21e786-3179-4fe4-b5fb-b10031aa4aaf.webp"
             },
             {
                 "nombre": "Milkshake",
                 "descripcion": "Medida: 500 ml (Sabores: Vainilla, Dulce de Leche o Frutilla. Con salsa de chocolate o caramelo y crema chantilly)",
-                "precio": 5600,
+                "precio": 5800,
                 "img": "/images/productos/IMG_1736.webp"
             },
             {
                 "nombre": "Smoothies",
                 "descripcion": "Medida: 360 ml (Sabores Varios)",
-                "precio": 5400,
+                "precio": 5800,
                 "img": "/images/productos/8f1bc3c3-1914-4759-8547-0359fa502729.webp"
             },
             {
                 "nombre": "Jarra de Limonada",
                 "descripcion": "Medida: 2 lts (Opcional: Menta y Jengibre)",
-                "precio": 11500,
+                "precio": 12000,
                 "img": "/images/productos/jarralimonada.webp"
             },
             {
                 "nombre": "Jarra de Jugo de Naranja",
                 "descripcion": "Medida: 2 lts ",
-                "precio": 12000,
+                "precio": 12500,
                 "img": "/images/productos/jarranaranja.webp"
             },
             {
@@ -781,7 +781,7 @@ const MENU_DATA = [
             {
                 "nombre": "Limonada grande",
                 "descripcion": "Medida: 500 ml",
-                "precio": 4000,
+                "precio": 4200,
                 "img": "/images/productos/limonada grande.webp"
             },
             {
@@ -799,19 +799,19 @@ const MENU_DATA = [
             {
                 "nombre": "Agua 600 ml",
                 "descripcion": "",
-                "precio": 2000,
+                "precio": 2500,
                 "img": "/images/productos/agua.webp"
             },
             {
                 "nombre": "Agua con gas 500 ml",
                 "descripcion": "",
-                "precio": 2200,
+                "precio": 2600,
                 "img": "/images/productos/agua con gas.webp"
             },
             {
                 "nombre": "Agua saborizada 500 ml",
                 "descripcion": "",
-                "precio": 2400,
+                "precio": 2600,
                 "img": "/images/productos/default.svg"
             },
             {
@@ -823,19 +823,19 @@ const MENU_DATA = [
             {
                 "nombre": "Gaseosa 500 ml",
                 "descripcion": "",
-                "precio": 3500,
+                "precio": 3700,
                 "img": "/images/productos/gaseosas.webp"
             },
             {
                 "nombre": "Cerveza regular 330ml",
                 "descripcion": "",
-                "precio": 4000,
+                "precio": 4300,
                 "img": "/images/productos/imperial.webp"
             },
             {
                 "nombre": "Cerveza regular 710ml",
                 "descripcion": "",
-                "precio": 7500,
+                "precio": 7800,
                 "img": "/images/productos/corona.webp"
             },
             {
@@ -847,7 +847,7 @@ const MENU_DATA = [
             {
                 "nombre": "Cerveza premium sin alcohol 330ml",
                 "descripcion": "",
-                "precio": 4000,
+                "precio": 4500,
                 "img": "/images/productos/default.svg"
             }
         ]
@@ -876,7 +876,7 @@ const MENU_DATA = [
             {
                 "nombre": "Jamón crudo Adicional",
                 "descripcion": "",
-                "precio": 1700,
+                "precio": 1800,
                 "img": "/images/productos/IMG_1466-Photoroom.webp"
             },
             {
