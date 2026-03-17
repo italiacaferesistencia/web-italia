@@ -66,7 +66,7 @@ const MENU_DATA = [
                 "nombre": "Pancakes Roma",
                 "descripcion": "2 Pancakes Tibios con Frutas de Estación, Miel o Salsa y Coco",
                 "precio": 7600,
-                "img": "/images/productos/WhatsApp Image 2026-03-17 at 09.01.37.webp"
+                "img": "/images/productos/Roma1.webp"
             }
         ]
     },
