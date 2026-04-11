@@ -24,7 +24,7 @@ const MENU_DATA = [
                 "nombre": "Waffle Chipa con Jamón",
                 "descripcion": "Masa Waffle de Chipa con Jamón.",
                 "precio": 7500,
-                "img": "/images/productos/Sin imagen.webp"
+                "img": "/images/productos/Waffle Chipa con Jamón.webp"
             },
             {
                 "nombre": "Sandwich Génova",
