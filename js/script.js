@@ -3,6 +3,30 @@ const MENU_DATA = [
         "categoria": "Especialidades",
         "productos": [
             {
+                "nombre": "Waffle Chipa Rúcula y Crudo",
+                "descripcion": "Masa Waffle de Chipa acompañado con Rúcula fresca y Jamón Crudo.",
+                "precio": 12000,
+                "img": "/images/productos/Waffle chipa rucula y crudo.webp"
+            },
+            {
+                "nombre": "Waffle Chipa Tomate Confitado y Palta",
+                "descripcion": "Masa Waffle de Chipa acompañado con Tomates Cherry Confitados y Palta.",
+                "precio": 10300,
+                "img": "/images/productos/Waffle chipa tomate confitado y palta.webp"
+            },
+            {
+                "nombre": "Waffle Chipa Rúcula, Tomate y Queso en Hebras",
+                "descripcion": "Masa Waffle de Chipa acompañado con Rúcula fresca, Tomates Cherry Confitados y Queso en Hebras.",
+                "precio": 10300,
+                "img": "/images/productos/Waffle chipa rucula tomate y queso en hebras.webp"
+            },
+            {
+                "nombre": "Waffle Chipa con Jamón",
+                "descripcion": "Masa Waffle de Chipa con Jamón.",
+                "precio": 7500,
+                "img": "/images/productos/Sin imagen.webp"
+            },
+            {
                 "nombre": "Sandwich Génova",
                 "descripcion": "Pan de Molde, Queso Crema, Jamón, Queso y Omelet de huevo, relleno de queso.",
                 "precio": 9000,
