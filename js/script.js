@@ -35,7 +35,7 @@ const MENU_DATA = [
             {
                 "nombre": "Opción Keto - Sandwich Génova",
                 "descripcion": "",
-                "precio": 1000,
+                "precio": 10700,
                 "img": "/images/productos/IMG_1463.webp"
             },
             {
